@@ -7,17 +7,29 @@ I also need an Financial back support from people to help me complete this libra
 Therefore you can donate as low as $7 to this repo to get a Specific Design which would be added to library for public use.
 The Modules which my supplier has are: ( Almost All)
 1) ESP-01
+
 2) ESP-02 (✓ PCB Added)
+
 3) ESP-03
+
 4) ESP-04
+
 5) ESP-05
+
 6) ESP-07
+
 7) ESP-08
+
 8) ESP-09
+
 9) ESP-10
+
 10) ESP-11
-11) ESP-12 & ESP-12E (Same Design for Both)
+
+11) ESP-12 & ESP-12E
+
 12) ESP-13 
+
 13) ESP-WPROOM2
 
 I Hope Everybody support me & Expand the IoT Population :)
