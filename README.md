@@ -7,11 +7,11 @@ I also need an Financial back support from people to help me complete this libra
 Therefore you can donate as low as $7 to this repo to get a Specific Design which would be added to library for public use.
 The Modules which my supplier has are: ( Almost All)
 
-1) ESP-01
+1) ESP-01 (✓ PCB Added)
 
 2) ESP-02 (✓ PCB Added)
 
-3) ESP-03
+3) ESP-03 (✓ PCB Added)
 
 4) ESP-04
 
